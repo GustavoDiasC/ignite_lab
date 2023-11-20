@@ -7,7 +7,7 @@ Um projeto desenvolvido durante um evento da rocketseat onde desenhei a interfac
 
 ## Demonstração
 
-<img src="assets/print1.png">
+<img src="src/assets/print1.png">
 
 
 ## Rodando localmente
